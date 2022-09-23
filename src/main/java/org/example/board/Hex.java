@@ -1,4 +1,4 @@
-package org.example;
+package org.example.board;
 
 public class Hex {
 	private int q;
